@@ -1,4 +1,4 @@
-# Currency Exchange React App
+# Currency Exchange App
 
 ## Description
 
@@ -29,3 +29,5 @@ This Currency Exchange React App allows users to quickly convert between differe
 Currency API: Thanks to Fawaz Ahmed for providing the currency exchange API.
 Tailwind CSS: Styled with Tailwind CSS.
 Vite: Built and optimized with Vite.
+
+## Developed by *Shobhit Singh*
